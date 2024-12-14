@@ -1,1 +1,1 @@
-<style href="/root/flag.txt"></style>
+alert("Hallo")
